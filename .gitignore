@@ -1,0 +1,9 @@
+# Environement files
+.env
+.env.local
+.env.*.local
+.vscode/
+venv/
+.venv/
+__pycache__/
+
